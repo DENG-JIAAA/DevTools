@@ -1,0 +1,26 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Publish output
+publish/
+[Pp]ublish/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db

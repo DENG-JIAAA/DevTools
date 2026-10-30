@@ -1,0 +1,4 @@
+{
+  "LogRetentionDays": 30,
+  "AutoCleanLogs": true
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "f81e1dfb-5aa8-4b5d-9804-37ed7ce9040b",
+    "Code": "",
+    "Name": "datacentre-service",
+    "ProjectPath": "E:\\workplace\\jianan\\master(2025)\\smarthse-servers\\datacentre-service",
+    "StartMode": "Maven",
+    "ModuleName": "datacentre-service",
+    "JarPath": "E:\\workplace\\jianan\\master(2025)\\smarthse-servers\\datacentre-service\\target\\datacentre-service-2.0.5.jar",
+    "MainClass": "cn.smarthse.modules.datacentre.DatacenterProviderApplication",
+    "Port": 19001,
+    "JvmArguments": "",
+    "ApplicationArguments": "",
+    "Profile": "dev",
+    "EnvironmentVariables": "JASYPT_ENCRYPTOR_PASSWORD=071e2bcaf4845559e00d33ab2a779da4",
+    "ReadinessCheckType": "Port",
+    "HealthCheckUrl": "",
+    "StartupTimeoutSeconds": 120,
+    "JavaExecutablePath": "",
+    "MavenExecutablePath": ""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "7eb06268-6060-41a0-a749-eb6cb247956f",
+    "Name": "\u5B8C\u6574\u5F00\u53D1\u73AF\u5883",
+    "Description": "\u542F\u52A8\u672C\u5730\u5F00\u53D1\u6240\u9700\u7684\u5168\u90E8 Java \u670D\u52A1",
+    "Stages": [
+      {
+        "Id": "3571f8e5-d9dd-416b-874f-d9f57f47e47b",
+        "Name": "\u7B2C\u4E00\u6279\uFF1A\u57FA\u7840\u670D\u52A1",
+        "Order": 1,
+        "ExecutionMode": "Parallel",
+        "ServiceIds": [
+          "f81e1dfb-5aa8-4b5d-9804-37ed7ce9040b"
+        ]
+      }
+    ],
+    "CreatedAt": "2026-10-30T14:08:54.9459655+08:00",
+    "UpdatedAt": "2026-10-30T14:28:19.6265842+08:00"
+  }
+]
